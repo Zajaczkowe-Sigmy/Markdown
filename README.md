@@ -27,6 +27,7 @@ Właśnie dzięki tak prostej i intuicyjnej składni, stał się popularnym narz
 Markdown jest obsługiwany przez wiele różnych narzędzi i edytorów, które sprawiają że korzytanie z niego jest łatwiejsze i efektywniejsze. 
 Przykładowo, edytor Atom posiada wbudowane wtyczki do podglądu plików Markdown bez konieczności ich eksportowania. 
 Wśród innych popularnych edytorów warto wspomnieć o Visual Studio Code czy Sublime Text, w których za pomocą dodatkowych wtyczek, możliwe jest tworzenie i edycja plików w tym języku. 
+
 Dostępne są również specjalne edytory Markdown, takie jak Typora czy Haroopad, które oferują szereg zaawansowanych funkcji do tworzenia dokumentów, 
 takich jak generowanie automatycznych spisów treści czy obsługa kodyfikacji LaTeX. 
 
