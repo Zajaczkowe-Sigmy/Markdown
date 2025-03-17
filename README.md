@@ -12,6 +12,7 @@ Stał się także nieodzownym elementem pracy z systemami kontroli wersji takimi
 za pośrednictwem Markdown łatwo jest tworzyć zrozumiałe dla wszystkich opisy zmian tak zwanych commitów.
 Ważnym jest również zastowowanie języka MarkDown w generowaniu statycznych stron internetowych, gdzie składnia Markdown zostaje przetłumaczona bezpośrednio na HTML.
 
+***
 ### Podstawy składni języka Markdown
 
 Język znaczników Markdown zaprojektowany został z myślą o ułatwieniu i klarowności formatownia tekstów przeznaczonych do publikacji w internecie.
@@ -21,6 +22,7 @@ Podstawowa składnia Markdown obejmuje takie elementy jak:
 * Wypunktowania, tworzone przez dodanie na początku linii znaku gwiazdki '*', plusa '+' lub myślnika '-'. 
 * Pogrubienie i kursywa, które uzyskuje się poprzez otoczenie fragmentu tekstu podwójnymi lub pojedynczymi znakami '*'; oraz linki, które tworzy się poprzez użycie nawiasów kwadratowych i okrągłych.
 Właśnie dzięki tak prostej i intuicyjnej składni, stał się popularnym narzędziem dla twórców treści internetowych.
+***
 
 ### Narzędzia i edytory wspierające składnię Markdown
 
@@ -30,6 +32,7 @@ Wśród innych popularnych edytorów warto wspomnieć o Visual Studio Code czy S
 
 Dostępne są również specjalne edytory Markdown, takie jak Typora czy Haroopad, które oferują szereg zaawansowanych funkcji do tworzenia dokumentów, 
 takich jak generowanie automatycznych spisów treści czy obsługa kodyfikacji LaTeX. 
+***
 
 ### Kluczowe zalety i możliwości
 
@@ -44,6 +47,6 @@ narzędziem dla programistów, blogerów i osób zajmujących się pisaniem doku
 
 Dodatkowym atutem Markdown jest jego kompatybilność – dokumenty zapisane w tym formacie są czytelne nawet bez konwersji, a jednocześnie można je łatwo eksportować do HTML, PDF czy DOCX. 
 Podnad to, dzięki licznym rozszerzeniom, użytkownicy mogą dostosować jego funkcjonalność do własnych potrzeb, np. dodając wsparcie dla tabel, przypisów czy nawet równań matematycznych.
-###
+***
 
  
