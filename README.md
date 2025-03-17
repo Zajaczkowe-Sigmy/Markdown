@@ -44,5 +44,6 @@ narzędziem dla programistów, blogerów i osób zajmujących się pisaniem doku
 
 Dodatkowym atutem Markdown jest jego kompatybilność – dokumenty zapisane w tym formacie są czytelne nawet bez konwersji, a jednocześnie można je łatwo eksportować do HTML, PDF czy DOCX. 
 Podnad to, dzięki licznym rozszerzeniom, użytkownicy mogą dostosować jego funkcjonalność do własnych potrzeb, np. dodając wsparcie dla tabel, przypisów czy nawet równań matematycznych.
+###
 
  
