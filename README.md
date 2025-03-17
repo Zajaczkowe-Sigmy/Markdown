@@ -30,7 +30,7 @@ Wśród innych popularnych edytorów warto wspomnieć o Visual Studio Code czy S
 Dostępne są również specjalne edytory Markdown, takie jak Typora czy Haroopad, które oferują szereg zaawansowanych funkcji do tworzenia dokumentów, 
 takich jak generowanie automatycznych spisów treści czy obsługa kodyfikacji LaTeX. 
 
-###Kluczowe zalety i możliwości
+### Kluczowe zalety i możliwości
 
 Markdown to lekki i intuicyjny język znaczników, który ułatwia formatowanie tekstu bez potrzeby korzystania z rozbudowanych edytorów. 
 Jego największą zaletą jest prostota którą poakzuje sama składnia Markdown która jest łatwa do opanowania i nie wymaga znajomości HTML czy innych technologii webowych. 
